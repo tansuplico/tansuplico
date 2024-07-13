@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tansuplico.tansuplico" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tansuplico&label=Profile%20views&color=0e75b6&style=flat" alt="tansuplico" /> </p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tristan+Suplico!;" />
@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate software developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tansuplico&label=Profile%20views&color=0e75b6&style=flat" alt="tansuplico" /> </p>
+
 
 <div align="center">
  
