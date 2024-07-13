@@ -6,8 +6,6 @@
 
 <h3 align="center">A passionate software developer from Philippines</h3>
 
-
-
 <div align="center">
  
 🔭 I’m currently working on **XTrack**
@@ -27,16 +25,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,python,javascript,typescript,express,mongodb,discord" /><br>
 </div>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tansuplico&" alt="tansuplico" /></p>
-  
-  <br/><br/><br/>
-</div>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tansuplico&" alt="tansuplico" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tansuplico&show_icons=true&locale=en&layout=compact" alt="tansuplico" /></p>
 </div>
