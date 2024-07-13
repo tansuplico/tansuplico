@@ -1,16 +1,26 @@
-<h1 align="center">Hi 👋, I'm Tristan</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:960/0*VdGSN-BnfkptC63j.gif" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tansuplico.tansuplico" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tansuplico&label=Profile%20views&color=0e75b6&style=flat" alt="tansuplico" /> </p>
 
-- 🔭 I’m currently working on **Verveo**
+<div align="center">
+ 
+🔭 I’m currently working on **XTrack**
 
-- 🌱 I’m currently learning **Next.JS**
+🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Front-End Development**
+💬 Ask me about **Full Stack Development**
 
-- 📫 How to reach me **tsuplico772@gmail.com**
+📫 How to reach me **tsuplico772@gmail.com**
+
+ </div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
