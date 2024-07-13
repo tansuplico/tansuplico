@@ -20,18 +20,11 @@
 
  </div>
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/tristan suplico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tristan suplico" height="30" width="40" /></a>
-</p>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vite,npm,postman,vscode,github,figma,tailwind,redux,git" />
-    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,python,javascript,typescript,express,mongodb,re" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,python,javascript,typescript,express,mongodb,discord" /><br>
 </div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tansuplico&show_icons=true&locale=en&layout=compact" alt="tansuplico" /></p>
